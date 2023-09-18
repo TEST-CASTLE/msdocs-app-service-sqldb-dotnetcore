@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kr-js-webapps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_45E053634707488AADE60132B91D0868 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D92DA830AE3C42E091066EAE0DDD0F50 }}
           package: .
